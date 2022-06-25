@@ -28,8 +28,8 @@ public class MySQL {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             String url = "jdbc:mysql://localhost:3306/cinema_booking_system";
-            String user = "root";
-            String password = "admin";
+            String user = "";
+            String password = "";
 
             // create a connection to the database
             myConnection = DriverManager.getConnection(url, user, password);
