@@ -24,7 +24,7 @@ Admin :
 
 This system utilize MySQL.
 
-Step to run the system
+Step to run the project
 
 1. Install Tomcat or any equivalent server
 2. Add mysqlconnector to your project
