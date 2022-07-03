@@ -26,7 +26,7 @@ This system utilize MySQL.
 
 Step to run the project
 
-1. Install Tomcat or any equivalent server
+1. Install Apache T
 2. Add mysqlconnector to your project
 3. Create database cinema_booking_system in phpMyAdmin
 4. Import the sql file given in the project.
